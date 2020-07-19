@@ -2,13 +2,13 @@
 Created using Node js, Express and React 
 The main purpose of this project is to run Node and React Server Concurrently
 
-### npm dev
+### npm run dev
 To run both react and node server concurrently
 
-### npm server
+### npm run server
 To run node server using nodemon
 
-### npm client 
+### npm run client 
 To run react server
 
 ### npm start
